@@ -1,1 +1,1 @@
-deleting the file betty
+deleting the dir
