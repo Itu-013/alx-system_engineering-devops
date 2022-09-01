@@ -1,1 +1,1 @@
-a script that creates directories
+creating more directories
