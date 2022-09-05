@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 egrep "root" /etc/passwd
+=======
+egrep 'sort' /etc/passwd
+>>>>>>> 89f2a232a3db18c0267e2a5286f0aaaf7c123d8c
